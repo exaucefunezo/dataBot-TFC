@@ -1,0 +1,46 @@
+{
+  "history": [
+    {
+      "role": "human",
+      "content": "Bonjour DataBot",
+      "timestamp": "2026-01-29 06:37:05"
+    },
+    {
+      "role": "ai",
+      "content": "Bonjour ! Je suis votre assistant commercial.",
+      "timestamp": "2026-01-29 06:37:05"
+    },
+    {
+      "role": "human",
+      "content": "Quel est notre CA ?",
+      "timestamp": "2026-01-29 06:37:05"
+    },
+    {
+      "role": "ai",
+      "content": "Le chiffre d'affaires est de 284,000 €.",
+      "timestamp": "2026-01-29 06:37:05"
+    },
+    {
+      "role": "human",
+      "content": "Produit le plus vendu ?",
+      "timestamp": "2026-01-29 06:37:05"
+    },
+    {
+      "role": "ai",
+      "content": "La souris gaming avec 342 unités.",
+      "timestamp": "2026-01-29 06:37:05"
+    },
+    {
+      "role": "human",
+      "content": "Stock faible ?",
+      "timestamp": "2026-01-29 06:37:05"
+    },
+    {
+      "role": "ai",
+      "content": "L'écran 4K a un stock faible: 32 unités.",
+      "timestamp": "2026-01-29 06:37:05"
+    }
+  ],
+  "max_messages": 10,
+  "saved_at": "2026-01-29T06:37:05.760890"
+}
